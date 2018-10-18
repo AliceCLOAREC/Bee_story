@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css?family=Questrial/Lobster');
+
+
+body{
+background-repeat: no-repeat;
+background-position: top center;
+background-size: cover;
+font-family: 'Lobster', cursive;
+color:rgb(255, 202, 65);
+
+
+}
+
+.bg-index {
+background-image: url("image/jardin.jpg");
+}
+
+.bg-etape01 {
+background-image: url("image/bge1.jpg");
+}
+
+.bg-etape02 {
+background-image: url("image/bge2.jpg");
+}
+
+.bg-etape03 {
+background-image: url("image/bge3.jpg");
+}
+
+.bg-etape04 {
+background-image: url("image/bge4.png");
+}
+
+h1{
+  text-align: center;
+  font-size: 2em;
+}
+
+
+video{
+margin-left: auto;
+margin-right: auto;
+margin-top: 50px;
+display: flex;
+
+}
+
+
+
+.box1 {
+max-width: 90px;
+margin : 0 auto;
+padding-top: 50px;
+
+
+}
+
+.box1 a {
+  color:rgb(255, 202, 65);
+  background-color: white;
+  border: 5px solid rgb(255, 202, 65);
+  border-radius: 10px;
+  text-align: center;
+  padding : 12px 22px;
+  text-decoration: none;
+
+}
+
+
+.box2 {
+  max-width: 40em;
+  margin: 0 auto;
+
+}
+
+.box2 h1{
+color:rgb(255, 202, 65);
+  background-color: white;
+  border: 5px solid rgb(255, 202, 65);
+  border-radius: 10px;
+}
+
+#abeilles12{
+  display: flex;
+  justify-content:space-between;
+
+
+  }
+
+.abeille1{
+margin-top: -50px;
+margin-left: -10px;
+float: left;
+}
+
+.abeille2{
+
+margin-right: 500px;
+}
+
+#abeilles34{
+  display: flex;
+  justify-content: space-around;
+
+  }
+
+  .abeille3{
+  margin-top:-100px;
+    margin-left: 80px;
+
+  }
+
+  .abeille4{
+    margin-top:-100px;
+    margin-left: auto;
+    margin-right: auto;
+  }
